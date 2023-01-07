@@ -6,6 +6,7 @@
 .pnp.js
 
 /server/node_modules
+/server/hospital-management-dentist-6e3bf941b848.json
 
 # testing
 /coverage
